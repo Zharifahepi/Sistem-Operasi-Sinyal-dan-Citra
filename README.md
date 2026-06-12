@@ -19,7 +19,7 @@ Proyek ini dibagi menjadi beberapa bagian utama:
 
 ## Struktur File
 * `OPERASI_DASAR_SISTEM_SINYAL_DAN_CITRA.pdf` - Dokumen laporan lengkap hasil analisis teori dan kesimpulan.
-* `Eksperimen_Sinyal_Citra.ipynb` - *Source code* Google Colab yang berisi seluruh program praktikum.
+* `Operasi_sinyal_dan_citra.ipynb` - *Source code* Google Colab yang berisi seluruh program praktikum.
 
 ---
 *Dibuat oleh Zharifah Zahra Salsabila - NIM 452024618106*
